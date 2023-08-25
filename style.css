@@ -1,0 +1,27 @@
+.container {
+    width: 880px;
+    height: 440px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: violet;
+}
+
+.item {
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    color: white;
+    font-size: 40px;
+    background-color: orange;
+}
+
+.two {
+    background-color: green;
+}
+
+.three {
+    background-color: blue;
+}
